@@ -1,0 +1,1 @@
+pc_wxapkg_decrypt\pc_wxapkg_decrypt.exe -wxid wxd466f440d7ffc588 -in .\en_pkg\__APP__.wxapkg -out .\de_pkg\__APP__.wxapkg

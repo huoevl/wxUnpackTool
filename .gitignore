@@ -8,6 +8,9 @@ local/
 build/
 profiles/
 native
+**.wxapkg
+**/dest/*
+!**/dest/**.txt
 #//////////////////////////
 # NPM
 #//////////////////////////
